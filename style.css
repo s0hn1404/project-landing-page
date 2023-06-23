@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #2b8ba8;
+    font-weight: bold;
+    align-items: center;
+    color: #fff6e9;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    font-weight: normal;
+}
